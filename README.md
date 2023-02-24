@@ -52,3 +52,6 @@ Crypto Devs Token Contract Address: 0x81c871F0081Bac42F5E8bB1F445C05aF49CD913F
 
 FakeNFTMarketplace deployed to:  0xbFc480b89F05b4f227e1EC8a45A446bB2241cDCB
 CryptoDevsDAO deployed to:  0xdc24bEA2AB82223C17a91D3BC0da9896F57C98bD
+
+
+Exchange Contract Address: 0x9b1e6332Ab1c26ab35B64B4a3f9052963A451327
